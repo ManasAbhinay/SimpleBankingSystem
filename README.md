@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Simple Banking System is a console-based Java application designed to simulate basic banking operations. It provides functionalities for creating bank accounts, depositing and withdrawing funds, transferring money between accounts, and viewing account details. This project is intended for beginners to practice Java programming concepts such as object-oriented programming (OOP), file handling, and user input handling.
+The Simple Banking System is a console-based Java application designed to simulate basic banking operations. It provides functionalities for creating bank accounts, depositing and withdrawing funds, transferring money between accounts, and viewing account details.
 
 ## Features
 
